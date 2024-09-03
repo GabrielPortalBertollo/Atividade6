@@ -1,0 +1,18 @@
+.backgroundImgLogin{
+    background: url(https://assets.nflxext.com/ffe/siteui/vlv3/36a4db5b-dec2-458a-a1c0-662fa60e7473/79f407c4-a804-45f9-a13a-bf0a66245315/BR-pt-20240820-TRIFECTA-perspective_WEB_fa304855-b015-4f00-8619-63e1a0920714_small.jpg);
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+  .backgroundColorLogin{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 1; 
+  }
