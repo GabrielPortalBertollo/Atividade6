@@ -1,2 +1,2 @@
 # Atividade6
-Repositório criado para salvar a atividade 6 do mais pra ti
+Para executar este arquivo será necessario abrir o terminal e utilizar o comando "npm install" para que seja instalado todas ass dependencias e então executado o comando "npm run dev" para abrir o site
